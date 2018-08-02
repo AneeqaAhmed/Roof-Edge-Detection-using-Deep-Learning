@@ -1,4 +1,4 @@
-#Edge-Detection-Using-Deep-Learning-(CNN)
+# Edge-Detection-Using-Deep-Learning-(CNN)
 
 This repository is my implementation of a project that uses CNN to detect edges of 2-D Roof images.
 
