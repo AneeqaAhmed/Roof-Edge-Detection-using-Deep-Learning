@@ -5,8 +5,8 @@ Roof Edge Detection Using Deep Learning (CNN)
 * **Name:** Aneeqa Ahmed
 * **Country Name:** Republic of Korea
 * **Education :** Graduate Student Jeju National University, Korea
-*  **Mentor:** Yungcheol Byun
-
+* **Mentor:** Dr. Yungcheol Byun
+* **motivation:** Currently there is not a single detector with both efficiency and reliability. Traditional filter based algorithms have the advantage of theoretical strictness but need extensive post processing. Existing methods usually rely. heavily on computing multiple image features, which makes the whole system complex and computationally expensive. Traditional methods for edge detection like filters or derivatives are not powerful enough to learn mappings from image patches for edge predictions so I decided incorporate CNN into edge detection problem
 
 ## Introduction
 
