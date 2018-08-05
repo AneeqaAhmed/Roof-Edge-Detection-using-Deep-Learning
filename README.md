@@ -1,7 +1,7 @@
 # Project Title
 Roof Edge Detection Using Deep Learning (CNN)
 
-## Authors
+## Author
 * **Name:** Aneeqa Ahmed
 * **Country Name:** Republic of Korea
 * **Education :** Graduate Student Jeju National University, Korea
@@ -40,5 +40,5 @@ This code uses Tensorflow implementation of VGG network by David Frossard, 2016 
 * Asian Machine Learning Camp, Jeju National University
 
 
-![ALT text](C:\Users\Aneeqa\Desktop\aneeqa noora.jpg "Point To Point intent ONOS") 
+![ALT text](/FlowDiagram.png "Flow Diagram") 
 
