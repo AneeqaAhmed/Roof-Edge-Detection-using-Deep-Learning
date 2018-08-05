@@ -1,5 +1,5 @@
 # Project Title
-Roof Edge Detection Using Deep Learning (CNN)
+**Edge Detection Using CNN (Deep Learning)**
 
 ## Author
 * **Name:** Aneeqa Ahmed
@@ -49,5 +49,7 @@ This code uses Tensorflow implementation of VGG network by David Frossard, 2016 
 
 ## Acknowledgments
 
+```
 * Asian Machine Learning Camp, Jeju National University
+```
 
