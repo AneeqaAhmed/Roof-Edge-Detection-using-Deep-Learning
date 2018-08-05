@@ -30,13 +30,13 @@ The methodology comprises of four major steps:
 * Trained on 4 GPUs for 2–3 weeks. It is currently one of the preferred choice for extracting features from images
 
 ### Gradient Map-ALL Filters
-![ALT text](/Gradient-Map-ALL-Filters.png "Gradient Map-ALL Filters") 
+![ALT text](/Gradient-Map-ALL-Filters.png "Gradient Map-ALL Filters")
 
-### Total Edge Map of ALL Layers 
-![ALT text](/Total-Edge-Map-of-all-layers .png "Total Edge Map of all layers") 
+### Total Edge Map of ALL Layers
+![ALT text](/Total-Edge-Map-of-all-layers.png "Total Edge Map of all layers")
 
 ### Averaged ALL layers Response Map Outcome
-![ALT text](/Averaged-all-layers-response-map-outcome.png "Averaged all layers response map outcome") 
+![ALT text](/Averaged-all-layers-response-map-outcome.png "Averaged all layers response map outcome")
 
 ## Description
 
