@@ -1,4 +1,14 @@
-# Edge-Detection-Using-Deep-Learning-(CNN)
+# Project Title
+Roof Edge Detection Using Deep Learning (CNN)
+
+## Authors
+**Billie Thompson:** Aneeqa Ahmed
+**Country Name:** Republic of Korea
+**Education :** Graduate Student Jeju National University, Korea
+**Mentor:** Yungcheol Byun
+
+
+# Introduction
 
 This repository is my implementation of a project that uses CNN to detect edges of 2-D Roof images.
 Traditional methods for edge detection like filters or derivatives are not powerful enough to learn mappings from image patches for edge predictions so I am incorporating CNN into edge detection problem.
@@ -27,7 +37,4 @@ This code uses Tensorflow implementation of VGG network by David Frossard, 2016 
 
 
 ![ALT text](C:\Users\Aneeqa\Desktop\aneeqa noora.jpg "Point To Point intent ONOS") 
-
-
-
 
