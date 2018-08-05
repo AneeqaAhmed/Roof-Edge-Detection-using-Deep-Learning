@@ -44,7 +44,7 @@ This code uses Tensorflow implementation of VGG network by David Frossard, 2016 
 
 ## Dependencies 
 ```
-* The Convolutional Nueral Network used here is the VGG implementation for Tensorflow by David Frossard. The weight for this pre-trained network should be downloaded from here:http://www.cs.toronto.edu/~frossard/post/vgg16/ and then put it in code directory to make the code work.
+* The Convolutional Nueral Network used here is the VGG implementation for Tensorflow by David Frossard. The weight for this pre-trained network should be downloaded from [here](http://www.cs.toronto.edu/~frossard/post/vgg16/) and then put it in code directory to make the code work.
 * Python 3.4.5 
 * Tensorflow
 ```
