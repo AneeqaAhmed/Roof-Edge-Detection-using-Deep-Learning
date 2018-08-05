@@ -2,10 +2,10 @@
 Roof Edge Detection Using Deep Learning (CNN)
 
 ## Authors
-**Billie Thompson:** Aneeqa Ahmed
-**Country Name:** Republic of Korea
-**Education :** Graduate Student Jeju National University, Korea
-**Mentor:** Yungcheol Byun
+* **Name:** Aneeqa Ahmed
+* **Country Name:** Republic of Korea
+* **Education :** Graduate Student Jeju National University, Korea
+*  **Mentor:** Yungcheol Byun
 
 
 # Introduction
