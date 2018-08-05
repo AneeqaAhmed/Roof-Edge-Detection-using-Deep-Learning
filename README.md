@@ -19,9 +19,14 @@ The methodology comprises of four major steps:
 * Take the average of response map of all filters in a given layer to get the total edge map of a specific layer
 * Resize the edge map to the original image size to display results
 
-## System Diagram
+## Flow Diagram
+
+![ALT text](/FlowDiagram.png "Flow Diagram") 
+
 
 ## Results
+
+
 
 ## Description
 
@@ -38,7 +43,4 @@ This code uses Tensorflow implementation of VGG network by David Frossard, 2016 
 ## Acknowledgments
 
 * Asian Machine Learning Camp, Jeju National University
-
-
-![ALT text](/FlowDiagram.png "Flow Diagram") 
 
