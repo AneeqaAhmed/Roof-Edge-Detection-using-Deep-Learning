@@ -53,3 +53,4 @@ This code uses Tensorflow implementation of VGG network by David Frossard, 2016 
 * Asian Machine Learning Camp, Jeju National University
 ```
 
+![ALT text](/camp_member.png "Camp Member")
