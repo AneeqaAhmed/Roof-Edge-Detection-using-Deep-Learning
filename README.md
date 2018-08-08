@@ -48,10 +48,11 @@ This code uses Tensorflow implementation of VGG network by David Frossard, 2016 
 * Tensorflow
 
 ## Acknowledgments
-Professor YungCheol-Byun, Jeju National University, Korea
+
 
 ```
 * Asian Machine Learning Camp, Jeju National University
+* Professor YungCheol-Byun, Jeju National University, Korea
 ```
 
 ![ALT text](/camp_member.png "Camp Member")
