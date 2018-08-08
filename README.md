@@ -51,8 +51,9 @@ This code uses Tensorflow implementation of VGG network by David Frossard, 2016 
 
 
 ```
-* Asian Machine Learning Camp, Jeju National University
 * Professor YungCheol-Byun, Jeju National University, Korea
+* Asian Machine Learning Camp, Jeju National University
+* Jeju Development Centre, Korea 
 ```
 
 ![ALT text](/camp_member.png "Camp Member")
