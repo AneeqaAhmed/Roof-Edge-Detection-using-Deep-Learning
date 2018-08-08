@@ -25,7 +25,7 @@ The methodology comprises of four major steps:
 
 
 ## Results
-* VGG network is characterized by its simplicity, using only 3×3 convolutional layers stacked on top of each other in increasing depth
+* VGG network is characterized by its simplicity, using only 3×3 convolutional layers stacked on top of each other in   increasing depth
 * VGGNet consists of 16 convolutional layers and is very appealing because of its very uniform architecture
 * Trained on 4 GPUs for 2–3 weeks. It is currently one of the preferred choice for extracting features from images
 
